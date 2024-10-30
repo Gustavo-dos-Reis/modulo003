@@ -1,0 +1,11 @@
+
+.my_li{
+    list-style-type: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.my_main{
+    background-color: rgb(253, 253, 142);
+    border: black 1px solid;
+}
+
